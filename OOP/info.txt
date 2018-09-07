@@ -1,0 +1,10 @@
+1720049|a|Medvedev|Admin
+1720050|t|Dimitri Petrenko|CSC101,|1720053,1720051,1720052,1720051,|Teacher
+1720051|s|Kaylashnikov|13|CSC101,CSC102,|1720050,1720050,|Student
+1720052|s|Gotard|9|CSC101,|1720050,|Student
+1720053|s|Jarabalus|9|CSC101,|1720050,|Student
+1720054|t|Sukulev|||Teacher
+1720055|t|Anton Boris|||Teacher
+1720056|a|Joseph Stalin|Admin
+1720058|t|Tupulev|||Teacher
+1720059|s|Leon Trotsky|0|||Student
